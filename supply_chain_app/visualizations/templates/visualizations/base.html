@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}SCM Visualizations{% endblock %}</title>
+    {% load staticfiles %}
+    <link rel="shortcut icon" type="image/png" href="{%  static 'favicon.ico' %}"/>
+    <link rel="stylesheet" href="{% static 'visualizations/bootstrap-3.3.7-dist/css/bootstrap.min.css' %}">
+    <link href='https://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{% static 'visualizations/style.css' %}"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="{% static 'visualizations/bootstrap-3.3.7-dist/js/bootstrap.min.js' %}"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+
+        <!-- Header -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#topNavBar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="{% block index_active %}{% endblock %} navbar-brand" href="{% url 'visualizations:index' %}">Dashboard</a>
+        </div>
+    
+        <!-- Items -->
+        <div class="collapse navbar-collapse" id="topNavBar">
+            <ul class="nav navbar-nav">
+                <li class="{% block treemap_active %}{% endblock %}"><a href="{% url 'visualizations:treemap' %}"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span>&nbsp; Treemap</a></li>
+                <li class="{% block chord_active %}{% endblock %}"><a href="{% url 'visualizations:chord_diagram' %}"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span>&nbsp; Chord Diagram</a></li>
+                <li class="{% block force_active %}{% endblock %}"><a href="{% url 'visualizations:force_directed' %}"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span>&nbsp; Force Directed</a></li>
+                <li class="{% block matrix_active %}{% endblock %}"><a href="{% url 'visualizations:matrix' %}"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span>&nbsp; Matrix</a></li>                
+            </ul>                        
+        </div>
+    </div>
+</nav>
+{% block body %}
+{% endblock %}
+</body>
+</html>

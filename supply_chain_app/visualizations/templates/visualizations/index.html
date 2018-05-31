@@ -1,0 +1,33 @@
+{% extends 'visualizations/base.html' %}
+{% block index_active %}active{% endblock %}
+{% load staticfiles %}
+{% block body%}
+  <div class="container-fluid">
+
+    <div class="row">
+      <div class="col-md-offset-1 col-md-10">
+        <h1 style="font-family: 'Anton', sans-serif; text-align: center;">Visualizing data with different methods of visualization</h1>
+      </div>
+    </div>
+    <div class="row">
+    <form action="{% url 'visualizations:upload_csv' %}" method="POST" enctype="multipart/form-data"> 
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="name" class="col-md-1 col-sm-2 control-label col-md-offset-1" style="padding-top: 7px;">Node File:</label>
+            <div class="col-md-3 col-sm-4">
+                <input type="file" name="csv_file1" id="csv_file1" required="True" class="form-control">
+            </div>
+            <label for="name" class="col-md-1 col-sm-2 control-label col-md-offset-1" style="padding-top: 7px;">Edge File:</label>
+            <div class="col-md-3 col-sm-4">
+                <input type="file" name="csv_file2" id="csv_file2" required="True" class="form-control">
+            </div> 
+            <div class="col-md-2 col-sm-2">
+                <button class="btn btn-primary"> <span class="glyphicon glyphicon-upload"></span>&nbsp;Upload </button>
+            </div> 
+        </div>       
+    </form>
+</div>
+        
+  </div>
+  <br><br>
+{% endblock %}

@@ -1,0 +1,1415 @@
+{
+    "max": 109.83, 
+    "nodes": [
+        {
+            "size": 6, 
+            "cost": 4.66, 
+            "group": "Dist", 
+            "id": "Dist_0001", 
+            "time": 109.83
+        }, 
+        {
+            "size": 6, 
+            "cost": 10.85, 
+            "group": "Dist", 
+            "id": "Dist_0002", 
+            "time": 67.17
+        }, 
+        {
+            "size": 6, 
+            "cost": 5.99, 
+            "group": "Dist", 
+            "id": "Dist_0003", 
+            "time": 58.0
+        }, 
+        {
+            "size": 6, 
+            "cost": 11.67, 
+            "group": "Dist", 
+            "id": "Dist_0004", 
+            "time": 105.96
+        }, 
+        {
+            "size": 6, 
+            "cost": 4.59, 
+            "group": "Dist", 
+            "id": "Dist_0005", 
+            "time": 49.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 18.17, 
+            "group": "Manuf", 
+            "id": "Manuf_0001", 
+            "time": 8.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 71.62, 
+            "group": "Manuf", 
+            "id": "Manuf_0002", 
+            "time": 9.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 16.16, 
+            "group": "Manuf", 
+            "id": "Manuf_0003", 
+            "time": 9.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 6.92, 
+            "group": "Manuf", 
+            "id": "Manuf_0004", 
+            "time": 8.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 12.59, 
+            "group": "Manuf", 
+            "id": "Manuf_0005", 
+            "time": 6.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 19.55, 
+            "group": "Manuf", 
+            "id": "Manuf_0006", 
+            "time": 6.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 17.06, 
+            "group": "Manuf", 
+            "id": "Manuf_0007", 
+            "time": 6.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 18.18, 
+            "group": "Manuf", 
+            "id": "Manuf_0008", 
+            "time": 9.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 14.47, 
+            "group": "Manuf", 
+            "id": "Manuf_0009", 
+            "time": 9.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0001", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.34, 
+            "group": "Retail", 
+            "id": "Retail_0002", 
+            "time": 5.67
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.21, 
+            "group": "Retail", 
+            "id": "Retail_0003", 
+            "time": 2.88
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.19, 
+            "group": "Retail", 
+            "id": "Retail_0004", 
+            "time": 4.32
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.14, 
+            "group": "Retail", 
+            "id": "Retail_0005", 
+            "time": 3.8
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.22, 
+            "group": "Retail", 
+            "id": "Retail_0006", 
+            "time": 2.9
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0007", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.15, 
+            "group": "Retail", 
+            "id": "Retail_0008", 
+            "time": 4.76
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.31, 
+            "group": "Retail", 
+            "id": "Retail_0009", 
+            "time": 4.38
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.22, 
+            "group": "Retail", 
+            "id": "Retail_0010", 
+            "time": 3.56
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0011", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.19, 
+            "group": "Retail", 
+            "id": "Retail_0012", 
+            "time": 3.36
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0013", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.24, 
+            "group": "Retail", 
+            "id": "Retail_0014", 
+            "time": 4.65
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.25, 
+            "group": "Retail", 
+            "id": "Retail_0015", 
+            "time": 3.39
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.13, 
+            "group": "Retail", 
+            "id": "Retail_0016", 
+            "time": 5.32
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.14, 
+            "group": "Retail", 
+            "id": "Retail_0017", 
+            "time": 2.57
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.25, 
+            "group": "Retail", 
+            "id": "Retail_0018", 
+            "time": 3.77
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.23, 
+            "group": "Retail", 
+            "id": "Retail_0019", 
+            "time": 4.05
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0020", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.25, 
+            "group": "Retail", 
+            "id": "Retail_0021", 
+            "time": 6.1
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0022", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0023", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0024", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0025", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0026", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0027", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0028", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0029", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0030", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0031", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0032", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0033", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0034", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0035", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0036", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0037", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0038", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0039", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0040", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0041", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0042", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0043", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0044", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0045", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0046", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0047", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0048", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0049", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0050", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0051", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0052", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0053", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0054", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0055", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0056", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0057", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0058", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0059", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0060", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0061", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0062", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0063", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0064", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0065", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0066", 
+            "time": 0.0
+        }, 
+        {
+            "size": 7, 
+            "cost": 0.94, 
+            "group": "Trans", 
+            "id": "Trans_0001", 
+            "time": 4.1
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.79, 
+            "group": "Trans", 
+            "id": "Trans_0002", 
+            "time": 10.02
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.05, 
+            "group": "Trans", 
+            "id": "Trans_0003", 
+            "time": 6.48
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.73, 
+            "group": "Trans", 
+            "id": "Trans_0004", 
+            "time": 3.21
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.66, 
+            "group": "Trans", 
+            "id": "Trans_0005", 
+            "time": 4.95
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.97, 
+            "group": "Trans", 
+            "id": "Trans_0006", 
+            "time": 11.49
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.56, 
+            "group": "Trans", 
+            "id": "Trans_0007", 
+            "time": 6.6
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.65, 
+            "group": "Trans", 
+            "id": "Trans_0008", 
+            "time": 4.73
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.83, 
+            "group": "Trans", 
+            "id": "Trans_0009", 
+            "time": 6.07
+        }, 
+        {
+            "size": 7, 
+            "cost": 3.64, 
+            "group": "Trans", 
+            "id": "Trans_0010", 
+            "time": 14.17
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.86, 
+            "group": "Trans", 
+            "id": "Trans_0011", 
+            "time": 7.96
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.19, 
+            "group": "Trans", 
+            "id": "Trans_0012", 
+            "time": 4.47
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.82, 
+            "group": "Trans", 
+            "id": "Trans_0013", 
+            "time": 4.08
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.53, 
+            "group": "Trans", 
+            "id": "Trans_0014", 
+            "time": 13.8
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.27, 
+            "group": "Trans", 
+            "id": "Trans_0015", 
+            "time": 7.24
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.57, 
+            "group": "Trans", 
+            "id": "Trans_0016", 
+            "time": 3.53
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.17, 
+            "group": "Trans", 
+            "id": "Trans_0017", 
+            "time": 4.16
+        }, 
+        {
+            "size": 7, 
+            "cost": 8.45, 
+            "group": "Trans", 
+            "id": "Trans_0018", 
+            "time": 12.49
+        }, 
+        {
+            "size": 7, 
+            "cost": 7.94, 
+            "group": "Trans", 
+            "id": "Trans_0019", 
+            "time": 5.34
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.68, 
+            "group": "Trans", 
+            "id": "Trans_0020", 
+            "time": 3.92
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.65, 
+            "group": "Trans", 
+            "id": "Trans_0021", 
+            "time": 4.35
+        }, 
+        {
+            "size": 7, 
+            "cost": 3.53, 
+            "group": "Trans", 
+            "id": "Trans_0022", 
+            "time": 8.11
+        }, 
+        {
+            "size": 7, 
+            "cost": 3.29, 
+            "group": "Trans", 
+            "id": "Trans_0023", 
+            "time": 5.49
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.69, 
+            "group": "Trans", 
+            "id": "Trans_0024", 
+            "time": 5.48
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.81, 
+            "group": "Trans", 
+            "id": "Trans_0025", 
+            "time": 5.9
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.03, 
+            "group": "Trans", 
+            "id": "Trans_0026", 
+            "time": 7.78
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.43, 
+            "group": "Trans", 
+            "id": "Trans_0027", 
+            "time": 9.0
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.23, 
+            "group": "Trans", 
+            "id": "Trans_0028", 
+            "time": 3.15
+        }, 
+        {
+            "size": 7, 
+            "cost": 3.79, 
+            "group": "Trans", 
+            "id": "Trans_0029", 
+            "time": 3.4
+        }, 
+        {
+            "size": 7, 
+            "cost": 7.93, 
+            "group": "Trans", 
+            "id": "Trans_0030", 
+            "time": 8.51
+        }, 
+        {
+            "size": 7, 
+            "cost": 6.99, 
+            "group": "Trans", 
+            "id": "Trans_0031", 
+            "time": 8.54
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.11, 
+            "group": "Trans", 
+            "id": "Trans_0032", 
+            "time": 3.92
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.12, 
+            "group": "Trans", 
+            "id": "Trans_0033", 
+            "time": 5.94
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.93, 
+            "group": "Trans", 
+            "id": "Trans_0034", 
+            "time": 8.2
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.6, 
+            "group": "Trans", 
+            "id": "Trans_0035", 
+            "time": 5.83
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.38, 
+            "group": "Trans", 
+            "id": "Trans_0036", 
+            "time": 4.5
+        }
+    ], 
+    "links": [
+        {
+            "source": "Dist_0001", 
+            "target": "Manuf_0001", 
+            "value": 4.66
+        }, 
+        {
+            "source": "Dist_0001", 
+            "target": "Manuf_0004", 
+            "value": 4.66
+        }, 
+        {
+            "source": "Dist_0001", 
+            "target": "Manuf_0005", 
+            "value": 4.66
+        }, 
+        {
+            "source": "Dist_0001", 
+            "target": "Retail_0001", 
+            "value": 4.66
+        }, 
+        {
+            "source": "Dist_0002", 
+            "target": "Manuf_0002", 
+            "value": 10.85
+        }, 
+        {
+            "source": "Dist_0002", 
+            "target": "Manuf_0004", 
+            "value": 10.85
+        }, 
+        {
+            "source": "Dist_0002", 
+            "target": "Manuf_0005", 
+            "value": 10.85
+        }, 
+        {
+            "source": "Dist_0002", 
+            "target": "Manuf_0006", 
+            "value": 10.85
+        }, 
+        {
+            "source": "Dist_0002", 
+            "target": "Retail_0002", 
+            "value": 10.85
+        }, 
+        {
+            "source": "Dist_0002", 
+            "target": "Retail_0005", 
+            "value": 10.85
+        }, 
+        {
+            "source": "Dist_0002", 
+            "target": "Retail_0006", 
+            "value": 10.85
+        }, 
+        {
+            "source": "Dist_0002", 
+            "target": "Retail_0007", 
+            "value": 10.85
+        }, 
+        {
+            "source": "Dist_0002", 
+            "target": "Retail_0008", 
+            "value": 10.85
+        }, 
+        {
+            "source": "Dist_0003", 
+            "target": "Manuf_0003", 
+            "value": 5.99
+        }, 
+        {
+            "source": "Dist_0003", 
+            "target": "Manuf_0004", 
+            "value": 5.99
+        }, 
+        {
+            "source": "Dist_0003", 
+            "target": "Manuf_0005", 
+            "value": 5.99
+        }, 
+        {
+            "source": "Dist_0003", 
+            "target": "Retail_0003", 
+            "value": 5.99
+        }, 
+        {
+            "source": "Dist_0003", 
+            "target": "Retail_0004", 
+            "value": 5.99
+        }, 
+        {
+            "source": "Dist_0003", 
+            "target": "Retail_0009", 
+            "value": 5.99
+        }, 
+        {
+            "source": "Dist_0003", 
+            "target": "Retail_0010", 
+            "value": 5.99
+        }, 
+        {
+            "source": "Dist_0003", 
+            "target": "Retail_0011", 
+            "value": 5.99
+        }, 
+        {
+            "source": "Dist_0004", 
+            "target": "Manuf_0004", 
+            "value": 11.67
+        }, 
+        {
+            "source": "Dist_0004", 
+            "target": "Manuf_0005", 
+            "value": 11.67
+        }, 
+        {
+            "source": "Dist_0004", 
+            "target": "Manuf_0007", 
+            "value": 11.67
+        }, 
+        {
+            "source": "Dist_0004", 
+            "target": "Retail_0012", 
+            "value": 11.67
+        }, 
+        {
+            "source": "Dist_0004", 
+            "target": "Retail_0013", 
+            "value": 11.67
+        }, 
+        {
+            "source": "Dist_0004", 
+            "target": "Retail_0014", 
+            "value": 11.67
+        }, 
+        {
+            "source": "Dist_0004", 
+            "target": "Retail_0015", 
+            "value": 11.67
+        }, 
+        {
+            "source": "Dist_0004", 
+            "target": "Retail_0016", 
+            "value": 11.67
+        }, 
+        {
+            "source": "Dist_0005", 
+            "target": "Manuf_0004", 
+            "value": 4.59
+        }, 
+        {
+            "source": "Dist_0005", 
+            "target": "Manuf_0005", 
+            "value": 4.59
+        }, 
+        {
+            "source": "Dist_0005", 
+            "target": "Manuf_0008", 
+            "value": 4.59
+        }, 
+        {
+            "source": "Dist_0005", 
+            "target": "Manuf_0009", 
+            "value": 4.59
+        }, 
+        {
+            "source": "Dist_0005", 
+            "target": "Retail_0017", 
+            "value": 4.59
+        }, 
+        {
+            "source": "Dist_0005", 
+            "target": "Retail_0018", 
+            "value": 4.59
+        }, 
+        {
+            "source": "Dist_0005", 
+            "target": "Retail_0019", 
+            "value": 4.59
+        }, 
+        {
+            "source": "Dist_0005", 
+            "target": "Retail_0020", 
+            "value": 4.59
+        }, 
+        {
+            "source": "Dist_0005", 
+            "target": "Retail_0021", 
+            "value": 4.59
+        }, 
+        {
+            "source": "Manuf_0001", 
+            "target": "Retail_0022", 
+            "value": 18.17
+        }, 
+        {
+            "source": "Manuf_0001", 
+            "target": "Trans_0001", 
+            "value": 18.17
+        }, 
+        {
+            "source": "Manuf_0001", 
+            "target": "Trans_0002", 
+            "value": 18.17
+        }, 
+        {
+            "source": "Manuf_0001", 
+            "target": "Trans_0003", 
+            "value": 18.17
+        }, 
+        {
+            "source": "Manuf_0001", 
+            "target": "Trans_0004", 
+            "value": 18.17
+        }, 
+        {
+            "source": "Manuf_0002", 
+            "target": "Retail_0023", 
+            "value": 71.62
+        }, 
+        {
+            "source": "Manuf_0002", 
+            "target": "Trans_0005", 
+            "value": 71.62
+        }, 
+        {
+            "source": "Manuf_0002", 
+            "target": "Trans_0006", 
+            "value": 71.62
+        }, 
+        {
+            "source": "Manuf_0002", 
+            "target": "Trans_0007", 
+            "value": 71.62
+        }, 
+        {
+            "source": "Manuf_0002", 
+            "target": "Trans_0008", 
+            "value": 71.62
+        }, 
+        {
+            "source": "Manuf_0003", 
+            "target": "Retail_0024", 
+            "value": 16.16
+        }, 
+        {
+            "source": "Manuf_0003", 
+            "target": "Trans_0009", 
+            "value": 16.16
+        }, 
+        {
+            "source": "Manuf_0003", 
+            "target": "Trans_0010", 
+            "value": 16.16
+        }, 
+        {
+            "source": "Manuf_0003", 
+            "target": "Trans_0011", 
+            "value": 16.16
+        }, 
+        {
+            "source": "Manuf_0003", 
+            "target": "Trans_0012", 
+            "value": 16.16
+        }, 
+        {
+            "source": "Manuf_0004", 
+            "target": "Retail_0025", 
+            "value": 6.92
+        }, 
+        {
+            "source": "Manuf_0004", 
+            "target": "Trans_0013", 
+            "value": 6.92
+        }, 
+        {
+            "source": "Manuf_0004", 
+            "target": "Trans_0014", 
+            "value": 6.92
+        }, 
+        {
+            "source": "Manuf_0004", 
+            "target": "Trans_0015", 
+            "value": 6.92
+        }, 
+        {
+            "source": "Manuf_0004", 
+            "target": "Trans_0016", 
+            "value": 6.92
+        }, 
+        {
+            "source": "Manuf_0005", 
+            "target": "Retail_0026", 
+            "value": 12.59
+        }, 
+        {
+            "source": "Manuf_0005", 
+            "target": "Trans_0017", 
+            "value": 12.59
+        }, 
+        {
+            "source": "Manuf_0005", 
+            "target": "Trans_0018", 
+            "value": 12.59
+        }, 
+        {
+            "source": "Manuf_0005", 
+            "target": "Trans_0019", 
+            "value": 12.59
+        }, 
+        {
+            "source": "Manuf_0005", 
+            "target": "Trans_0020", 
+            "value": 12.59
+        }, 
+        {
+            "source": "Manuf_0006", 
+            "target": "Retail_0027", 
+            "value": 19.55
+        }, 
+        {
+            "source": "Manuf_0006", 
+            "target": "Trans_0021", 
+            "value": 19.55
+        }, 
+        {
+            "source": "Manuf_0006", 
+            "target": "Trans_0022", 
+            "value": 19.55
+        }, 
+        {
+            "source": "Manuf_0006", 
+            "target": "Trans_0023", 
+            "value": 19.55
+        }, 
+        {
+            "source": "Manuf_0006", 
+            "target": "Trans_0024", 
+            "value": 19.55
+        }, 
+        {
+            "source": "Manuf_0007", 
+            "target": "Retail_0028", 
+            "value": 17.06
+        }, 
+        {
+            "source": "Manuf_0007", 
+            "target": "Trans_0025", 
+            "value": 17.06
+        }, 
+        {
+            "source": "Manuf_0007", 
+            "target": "Trans_0026", 
+            "value": 17.06
+        }, 
+        {
+            "source": "Manuf_0007", 
+            "target": "Trans_0027", 
+            "value": 17.06
+        }, 
+        {
+            "source": "Manuf_0007", 
+            "target": "Trans_0028", 
+            "value": 17.06
+        }, 
+        {
+            "source": "Manuf_0008", 
+            "target": "Retail_0029", 
+            "value": 18.18
+        }, 
+        {
+            "source": "Manuf_0008", 
+            "target": "Trans_0029", 
+            "value": 18.18
+        }, 
+        {
+            "source": "Manuf_0008", 
+            "target": "Trans_0030", 
+            "value": 18.18
+        }, 
+        {
+            "source": "Manuf_0008", 
+            "target": "Trans_0031", 
+            "value": 18.18
+        }, 
+        {
+            "source": "Manuf_0008", 
+            "target": "Trans_0032", 
+            "value": 18.18
+        }, 
+        {
+            "source": "Manuf_0009", 
+            "target": "Retail_0030", 
+            "value": 14.47
+        }, 
+        {
+            "source": "Manuf_0009", 
+            "target": "Trans_0033", 
+            "value": 14.47
+        }, 
+        {
+            "source": "Manuf_0009", 
+            "target": "Trans_0034", 
+            "value": 14.47
+        }, 
+        {
+            "source": "Manuf_0009", 
+            "target": "Trans_0035", 
+            "value": 14.47
+        }, 
+        {
+            "source": "Manuf_0009", 
+            "target": "Trans_0036", 
+            "value": 14.47
+        }, 
+        {
+            "source": "Trans_0001", 
+            "target": "Retail_0031", 
+            "value": 0.94
+        }, 
+        {
+            "source": "Trans_0002", 
+            "target": "Retail_0032", 
+            "value": 2.79
+        }, 
+        {
+            "source": "Trans_0003", 
+            "target": "Retail_0033", 
+            "value": 2.05
+        }, 
+        {
+            "source": "Trans_0004", 
+            "target": "Retail_0034", 
+            "value": 1.73
+        }, 
+        {
+            "source": "Trans_0005", 
+            "target": "Retail_0035", 
+            "value": 2.66
+        }, 
+        {
+            "source": "Trans_0006", 
+            "target": "Retail_0036", 
+            "value": 4.97
+        }, 
+        {
+            "source": "Trans_0007", 
+            "target": "Retail_0037", 
+            "value": 4.56
+        }, 
+        {
+            "source": "Trans_0008", 
+            "target": "Retail_0038", 
+            "value": 1.65
+        }, 
+        {
+            "source": "Trans_0009", 
+            "target": "Retail_0039", 
+            "value": 1.83
+        }, 
+        {
+            "source": "Trans_0010", 
+            "target": "Retail_0040", 
+            "value": 3.64
+        }, 
+        {
+            "source": "Trans_0011", 
+            "target": "Retail_0041", 
+            "value": 1.86
+        }, 
+        {
+            "source": "Trans_0012", 
+            "target": "Retail_0042", 
+            "value": 1.19
+        }, 
+        {
+            "source": "Trans_0013", 
+            "target": "Retail_0043", 
+            "value": 1.82
+        }, 
+        {
+            "source": "Trans_0014", 
+            "target": "Retail_0044", 
+            "value": 4.53
+        }, 
+        {
+            "source": "Trans_0015", 
+            "target": "Retail_0045", 
+            "value": 4.27
+        }, 
+        {
+            "source": "Trans_0016", 
+            "target": "Retail_0046", 
+            "value": 2.57
+        }, 
+        {
+            "source": "Trans_0017", 
+            "target": "Retail_0047", 
+            "value": 4.17
+        }, 
+        {
+            "source": "Trans_0018", 
+            "target": "Retail_0048", 
+            "value": 8.45
+        }, 
+        {
+            "source": "Trans_0019", 
+            "target": "Retail_0049", 
+            "value": 7.94
+        }, 
+        {
+            "source": "Trans_0020", 
+            "target": "Retail_0050", 
+            "value": 4.68
+        }, 
+        {
+            "source": "Trans_0021", 
+            "target": "Retail_0051", 
+            "value": 2.65
+        }, 
+        {
+            "source": "Trans_0022", 
+            "target": "Retail_0052", 
+            "value": 3.53
+        }, 
+        {
+            "source": "Trans_0023", 
+            "target": "Retail_0053", 
+            "value": 3.29
+        }, 
+        {
+            "source": "Trans_0024", 
+            "target": "Retail_0054", 
+            "value": 2.69
+        }, 
+        {
+            "source": "Trans_0025", 
+            "target": "Retail_0055", 
+            "value": 1.81
+        }, 
+        {
+            "source": "Trans_0026", 
+            "target": "Retail_0056", 
+            "value": 2.03
+        }, 
+        {
+            "source": "Trans_0027", 
+            "target": "Retail_0057", 
+            "value": 2.43
+        }, 
+        {
+            "source": "Trans_0028", 
+            "target": "Retail_0058", 
+            "value": 1.23
+        }, 
+        {
+            "source": "Trans_0029", 
+            "target": "Retail_0059", 
+            "value": 3.79
+        }, 
+        {
+            "source": "Trans_0030", 
+            "target": "Retail_0060", 
+            "value": 7.93
+        }, 
+        {
+            "source": "Trans_0031", 
+            "target": "Retail_0061", 
+            "value": 6.99
+        }, 
+        {
+            "source": "Trans_0032", 
+            "target": "Retail_0062", 
+            "value": 4.11
+        }, 
+        {
+            "source": "Trans_0033", 
+            "target": "Retail_0063", 
+            "value": 2.12
+        }, 
+        {
+            "source": "Trans_0034", 
+            "target": "Retail_0064", 
+            "value": 2.93
+        }, 
+        {
+            "source": "Trans_0035", 
+            "target": "Retail_0065", 
+            "value": 1.6
+        }, 
+        {
+            "source": "Trans_0036", 
+            "target": "Retail_0066", 
+            "value": 1.38
+        }
+    ], 
+    "min": 0.0
+}

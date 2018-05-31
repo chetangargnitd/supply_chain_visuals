@@ -1,0 +1,123 @@
+{% extends 'visualizations/base.html' %}
+{% block force_active %}active{% endblock %}
+{% load staticfiles %}
+
+{%  block body %}
+<meta charset="utf-8">
+<style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 1;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+</style>
+<svg width="1280" height="960"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("charge", d3.forceManyBody())  //add .strength(-10) to reduce size of force directed layout
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+d3.json("{% static 'visualizations/json/force_directed.json' %}", function(error, graph) {
+  if (error) throw error;
+
+  var color = {'Manuf':'#ff8533','Dist':'#006699','Retail':'#b30000','Trans':'#9900ff','Part':'#009933'};
+
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+  var nodeSizeScale = d3.scaleLinear()
+                        .domain([graph.min,graph.max])
+                        .range([3,10]);
+
+  var node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+      .attr("r", function(d){ return nodeSizeScale(d.time); })
+      .attr("fill", function(d) { return color[d.group]; })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+  node.append("title")
+      .text(function(d) { 
+        var a = d.group;
+        var b = d.time;
+        var c = d.cost;
+        var s = "Stage Type : " + a + ", Stage Time : " + b + " days " + ", Stage Cost : $" + c;
+        return s 
+      });
+
+  var label = svg.selectAll(null)
+    .data(graph.nodes)
+    .enter()
+    .append("text")
+    .text(function (d) { return d.id; })
+    .style("text-anchor", "middle")
+    .style("fill", "#555")
+    .style("font-family", "Calibri")
+    .style("font-size", "8px");
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        .attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+
+    label
+        .attr("x", function(d){ return d.x+5; })
+        .attr("y", function(d){ return d.y-5; });
+  }
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+</script>
+{% endblock %}

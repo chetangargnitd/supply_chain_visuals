@@ -1,0 +1,14 @@
+Stage Name,stageCost,relDepth,stageClassification,avgDemand,stdDevDemand,maxServiceTime,serviceLevel,stageTime,stdDev stageTime,stageTime_1,stageTime_%_1,stageTime_2,stageTime_%_2,stageTime_3,stageTime_%_3,stageTime_4,stageTime_%_4,stageTime_5,stageTime_%_5,stageTime_6,stageTime_%_6,xPosition,yPosition
+Manuf_0001,$80.00 ,3,Manuf,,,,,30.00,,,,,,,,,,,,,,64,48
+Manuf_0002,$12.00 ,1,Manuf,,,,,14.00,,,,,,,,,,,,,,416,48
+Manuf_0003,$12.00 ,1,Manuf,,,,,14.00,,,,,,,,,,,,,,416,112
+Manuf_0004,$12.00 ,1,Manuf,,,,,14.00,,,,,,,,,,,,,,416,176
+Manuf_0005,$12.00 ,1,Manuf,,,,,14.00,,,,,,,,,,,,,,416,240
+Retail_0001,$0.00 ,0,Retail,4000,7500,20,96%,5.00,,,,,,,,,,,,,,592,48
+Retail_0002,$0.00 ,0,Retail,2000,3500,20,96%,5.00,,,,,,,,,,,,,,592,112
+Retail_0003,$0.00 ,0,Retail,8000,9000,20,96%,5.00,,,,,,,,,,,,,,592,176
+Retail_0004,$0.00 ,0,Retail,700,1400,20,96%,5.00,,,,,,,,,,,,,,592,240
+Trans_0001,$0.55 ,2,Trans,,,,,15.00,,,,,,,,,,,,,,240,48
+Trans_0002,$0.50 ,2,Trans,,,,,15.00,,,,,,,,,,,,,,240,112
+Trans_0003,$0.35 ,2,Trans,,,,,15.00,,,,,,,,,,,,,,240,176
+Trans_0004,$0.35 ,2,Trans,,,,,15.00,,,,,,,,,,,,,,240,240

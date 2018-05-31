@@ -1,0 +1,1415 @@
+{
+    "max": 109.83, 
+    "nodes": [
+        {
+            "size": 6, 
+            "cost": 4.66, 
+            "group": "Dist", 
+            "id": "Dist_0001", 
+            "time": 109.83
+        }, 
+        {
+            "size": 6, 
+            "cost": 10.85, 
+            "group": "Dist", 
+            "id": "Dist_0002", 
+            "time": 67.17
+        }, 
+        {
+            "size": 6, 
+            "cost": 5.99, 
+            "group": "Dist", 
+            "id": "Dist_0003", 
+            "time": 58.0
+        }, 
+        {
+            "size": 6, 
+            "cost": 11.67, 
+            "group": "Dist", 
+            "id": "Dist_0004", 
+            "time": 105.96
+        }, 
+        {
+            "size": 6, 
+            "cost": 4.59, 
+            "group": "Dist", 
+            "id": "Dist_0005", 
+            "time": 49.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 18.17, 
+            "group": "Manuf", 
+            "id": "Manuf_0001", 
+            "time": 8.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 71.62, 
+            "group": "Manuf", 
+            "id": "Manuf_0002", 
+            "time": 9.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 16.16, 
+            "group": "Manuf", 
+            "id": "Manuf_0003", 
+            "time": 9.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 6.92, 
+            "group": "Manuf", 
+            "id": "Manuf_0004", 
+            "time": 8.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 12.59, 
+            "group": "Manuf", 
+            "id": "Manuf_0005", 
+            "time": 6.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 19.55, 
+            "group": "Manuf", 
+            "id": "Manuf_0006", 
+            "time": 6.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 17.06, 
+            "group": "Manuf", 
+            "id": "Manuf_0007", 
+            "time": 6.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 18.18, 
+            "group": "Manuf", 
+            "id": "Manuf_0008", 
+            "time": 9.0
+        }, 
+        {
+            "size": 5, 
+            "cost": 14.47, 
+            "group": "Manuf", 
+            "id": "Manuf_0009", 
+            "time": 9.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0001", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.34, 
+            "group": "Retail", 
+            "id": "Retail_0002", 
+            "time": 5.67
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.21, 
+            "group": "Retail", 
+            "id": "Retail_0003", 
+            "time": 2.88
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.19, 
+            "group": "Retail", 
+            "id": "Retail_0004", 
+            "time": 4.32
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.14, 
+            "group": "Retail", 
+            "id": "Retail_0005", 
+            "time": 3.8
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.22, 
+            "group": "Retail", 
+            "id": "Retail_0006", 
+            "time": 2.9
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0007", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.15, 
+            "group": "Retail", 
+            "id": "Retail_0008", 
+            "time": 4.76
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.31, 
+            "group": "Retail", 
+            "id": "Retail_0009", 
+            "time": 4.38
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.22, 
+            "group": "Retail", 
+            "id": "Retail_0010", 
+            "time": 3.56
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0011", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.19, 
+            "group": "Retail", 
+            "id": "Retail_0012", 
+            "time": 3.36
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0013", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.24, 
+            "group": "Retail", 
+            "id": "Retail_0014", 
+            "time": 4.65
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.25, 
+            "group": "Retail", 
+            "id": "Retail_0015", 
+            "time": 3.39
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.13, 
+            "group": "Retail", 
+            "id": "Retail_0016", 
+            "time": 5.32
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.14, 
+            "group": "Retail", 
+            "id": "Retail_0017", 
+            "time": 2.57
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.25, 
+            "group": "Retail", 
+            "id": "Retail_0018", 
+            "time": 3.77
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.23, 
+            "group": "Retail", 
+            "id": "Retail_0019", 
+            "time": 4.05
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0020", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.25, 
+            "group": "Retail", 
+            "id": "Retail_0021", 
+            "time": 6.1
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0022", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0023", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0024", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0025", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0026", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0027", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0028", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0029", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0030", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0031", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0032", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0033", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0034", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0035", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0036", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0037", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0038", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0039", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0040", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0041", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0042", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0043", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0044", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0045", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0046", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0047", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0048", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0049", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0050", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0051", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0052", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0053", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0054", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0055", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0056", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0057", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0058", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0059", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0060", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0061", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0062", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0063", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0064", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0065", 
+            "time": 0.0
+        }, 
+        {
+            "size": 4, 
+            "cost": 0.0, 
+            "group": "Retail", 
+            "id": "Retail_0066", 
+            "time": 0.0
+        }, 
+        {
+            "size": 7, 
+            "cost": 0.94, 
+            "group": "Trans", 
+            "id": "Trans_0001", 
+            "time": 4.1
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.79, 
+            "group": "Trans", 
+            "id": "Trans_0002", 
+            "time": 10.02
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.05, 
+            "group": "Trans", 
+            "id": "Trans_0003", 
+            "time": 6.48
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.73, 
+            "group": "Trans", 
+            "id": "Trans_0004", 
+            "time": 3.21
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.66, 
+            "group": "Trans", 
+            "id": "Trans_0005", 
+            "time": 4.95
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.97, 
+            "group": "Trans", 
+            "id": "Trans_0006", 
+            "time": 11.49
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.56, 
+            "group": "Trans", 
+            "id": "Trans_0007", 
+            "time": 6.6
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.65, 
+            "group": "Trans", 
+            "id": "Trans_0008", 
+            "time": 4.73
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.83, 
+            "group": "Trans", 
+            "id": "Trans_0009", 
+            "time": 6.07
+        }, 
+        {
+            "size": 7, 
+            "cost": 3.64, 
+            "group": "Trans", 
+            "id": "Trans_0010", 
+            "time": 14.17
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.86, 
+            "group": "Trans", 
+            "id": "Trans_0011", 
+            "time": 7.96
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.19, 
+            "group": "Trans", 
+            "id": "Trans_0012", 
+            "time": 4.47
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.82, 
+            "group": "Trans", 
+            "id": "Trans_0013", 
+            "time": 4.08
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.53, 
+            "group": "Trans", 
+            "id": "Trans_0014", 
+            "time": 13.8
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.27, 
+            "group": "Trans", 
+            "id": "Trans_0015", 
+            "time": 7.24
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.57, 
+            "group": "Trans", 
+            "id": "Trans_0016", 
+            "time": 3.53
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.17, 
+            "group": "Trans", 
+            "id": "Trans_0017", 
+            "time": 4.16
+        }, 
+        {
+            "size": 7, 
+            "cost": 8.45, 
+            "group": "Trans", 
+            "id": "Trans_0018", 
+            "time": 12.49
+        }, 
+        {
+            "size": 7, 
+            "cost": 7.94, 
+            "group": "Trans", 
+            "id": "Trans_0019", 
+            "time": 5.34
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.68, 
+            "group": "Trans", 
+            "id": "Trans_0020", 
+            "time": 3.92
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.65, 
+            "group": "Trans", 
+            "id": "Trans_0021", 
+            "time": 4.35
+        }, 
+        {
+            "size": 7, 
+            "cost": 3.53, 
+            "group": "Trans", 
+            "id": "Trans_0022", 
+            "time": 8.11
+        }, 
+        {
+            "size": 7, 
+            "cost": 3.29, 
+            "group": "Trans", 
+            "id": "Trans_0023", 
+            "time": 5.49
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.69, 
+            "group": "Trans", 
+            "id": "Trans_0024", 
+            "time": 5.48
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.81, 
+            "group": "Trans", 
+            "id": "Trans_0025", 
+            "time": 5.9
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.03, 
+            "group": "Trans", 
+            "id": "Trans_0026", 
+            "time": 7.78
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.43, 
+            "group": "Trans", 
+            "id": "Trans_0027", 
+            "time": 9.0
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.23, 
+            "group": "Trans", 
+            "id": "Trans_0028", 
+            "time": 3.15
+        }, 
+        {
+            "size": 7, 
+            "cost": 3.79, 
+            "group": "Trans", 
+            "id": "Trans_0029", 
+            "time": 3.4
+        }, 
+        {
+            "size": 7, 
+            "cost": 7.93, 
+            "group": "Trans", 
+            "id": "Trans_0030", 
+            "time": 8.51
+        }, 
+        {
+            "size": 7, 
+            "cost": 6.99, 
+            "group": "Trans", 
+            "id": "Trans_0031", 
+            "time": 8.54
+        }, 
+        {
+            "size": 7, 
+            "cost": 4.11, 
+            "group": "Trans", 
+            "id": "Trans_0032", 
+            "time": 3.92
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.12, 
+            "group": "Trans", 
+            "id": "Trans_0033", 
+            "time": 5.94
+        }, 
+        {
+            "size": 7, 
+            "cost": 2.93, 
+            "group": "Trans", 
+            "id": "Trans_0034", 
+            "time": 8.2
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.6, 
+            "group": "Trans", 
+            "id": "Trans_0035", 
+            "time": 5.83
+        }, 
+        {
+            "size": 7, 
+            "cost": 1.38, 
+            "group": "Trans", 
+            "id": "Trans_0036", 
+            "time": 4.5
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 5, 
+            "value": 4.66
+        }, 
+        {
+            "source": 0, 
+            "target": 8, 
+            "value": 4.66
+        }, 
+        {
+            "source": 0, 
+            "target": 9, 
+            "value": 4.66
+        }, 
+        {
+            "source": 0, 
+            "target": 14, 
+            "value": 4.66
+        }, 
+        {
+            "source": 1, 
+            "target": 6, 
+            "value": 10.85
+        }, 
+        {
+            "source": 1, 
+            "target": 8, 
+            "value": 10.85
+        }, 
+        {
+            "source": 1, 
+            "target": 9, 
+            "value": 10.85
+        }, 
+        {
+            "source": 1, 
+            "target": 10, 
+            "value": 10.85
+        }, 
+        {
+            "source": 1, 
+            "target": 15, 
+            "value": 10.85
+        }, 
+        {
+            "source": 1, 
+            "target": 18, 
+            "value": 10.85
+        }, 
+        {
+            "source": 1, 
+            "target": 19, 
+            "value": 10.85
+        }, 
+        {
+            "source": 1, 
+            "target": 20, 
+            "value": 10.85
+        }, 
+        {
+            "source": 1, 
+            "target": 21, 
+            "value": 10.85
+        }, 
+        {
+            "source": 2, 
+            "target": 7, 
+            "value": 5.99
+        }, 
+        {
+            "source": 2, 
+            "target": 8, 
+            "value": 5.99
+        }, 
+        {
+            "source": 2, 
+            "target": 9, 
+            "value": 5.99
+        }, 
+        {
+            "source": 2, 
+            "target": 16, 
+            "value": 5.99
+        }, 
+        {
+            "source": 2, 
+            "target": 17, 
+            "value": 5.99
+        }, 
+        {
+            "source": 2, 
+            "target": 22, 
+            "value": 5.99
+        }, 
+        {
+            "source": 2, 
+            "target": 23, 
+            "value": 5.99
+        }, 
+        {
+            "source": 2, 
+            "target": 24, 
+            "value": 5.99
+        }, 
+        {
+            "source": 3, 
+            "target": 8, 
+            "value": 11.67
+        }, 
+        {
+            "source": 3, 
+            "target": 9, 
+            "value": 11.67
+        }, 
+        {
+            "source": 3, 
+            "target": 11, 
+            "value": 11.67
+        }, 
+        {
+            "source": 3, 
+            "target": 25, 
+            "value": 11.67
+        }, 
+        {
+            "source": 3, 
+            "target": 26, 
+            "value": 11.67
+        }, 
+        {
+            "source": 3, 
+            "target": 27, 
+            "value": 11.67
+        }, 
+        {
+            "source": 3, 
+            "target": 28, 
+            "value": 11.67
+        }, 
+        {
+            "source": 3, 
+            "target": 29, 
+            "value": 11.67
+        }, 
+        {
+            "source": 4, 
+            "target": 8, 
+            "value": 4.59
+        }, 
+        {
+            "source": 4, 
+            "target": 9, 
+            "value": 4.59
+        }, 
+        {
+            "source": 4, 
+            "target": 12, 
+            "value": 4.59
+        }, 
+        {
+            "source": 4, 
+            "target": 13, 
+            "value": 4.59
+        }, 
+        {
+            "source": 4, 
+            "target": 30, 
+            "value": 4.59
+        }, 
+        {
+            "source": 4, 
+            "target": 31, 
+            "value": 4.59
+        }, 
+        {
+            "source": 4, 
+            "target": 32, 
+            "value": 4.59
+        }, 
+        {
+            "source": 4, 
+            "target": 33, 
+            "value": 4.59
+        }, 
+        {
+            "source": 4, 
+            "target": 34, 
+            "value": 4.59
+        }, 
+        {
+            "source": 5, 
+            "target": 35, 
+            "value": 18.17
+        }, 
+        {
+            "source": 5, 
+            "target": 80, 
+            "value": 18.17
+        }, 
+        {
+            "source": 5, 
+            "target": 81, 
+            "value": 18.17
+        }, 
+        {
+            "source": 5, 
+            "target": 82, 
+            "value": 18.17
+        }, 
+        {
+            "source": 5, 
+            "target": 83, 
+            "value": 18.17
+        }, 
+        {
+            "source": 6, 
+            "target": 36, 
+            "value": 71.62
+        }, 
+        {
+            "source": 6, 
+            "target": 84, 
+            "value": 71.62
+        }, 
+        {
+            "source": 6, 
+            "target": 85, 
+            "value": 71.62
+        }, 
+        {
+            "source": 6, 
+            "target": 86, 
+            "value": 71.62
+        }, 
+        {
+            "source": 6, 
+            "target": 87, 
+            "value": 71.62
+        }, 
+        {
+            "source": 7, 
+            "target": 37, 
+            "value": 16.16
+        }, 
+        {
+            "source": 7, 
+            "target": 88, 
+            "value": 16.16
+        }, 
+        {
+            "source": 7, 
+            "target": 89, 
+            "value": 16.16
+        }, 
+        {
+            "source": 7, 
+            "target": 90, 
+            "value": 16.16
+        }, 
+        {
+            "source": 7, 
+            "target": 91, 
+            "value": 16.16
+        }, 
+        {
+            "source": 8, 
+            "target": 38, 
+            "value": 6.92
+        }, 
+        {
+            "source": 8, 
+            "target": 92, 
+            "value": 6.92
+        }, 
+        {
+            "source": 8, 
+            "target": 93, 
+            "value": 6.92
+        }, 
+        {
+            "source": 8, 
+            "target": 94, 
+            "value": 6.92
+        }, 
+        {
+            "source": 8, 
+            "target": 95, 
+            "value": 6.92
+        }, 
+        {
+            "source": 9, 
+            "target": 39, 
+            "value": 12.59
+        }, 
+        {
+            "source": 9, 
+            "target": 96, 
+            "value": 12.59
+        }, 
+        {
+            "source": 9, 
+            "target": 97, 
+            "value": 12.59
+        }, 
+        {
+            "source": 9, 
+            "target": 98, 
+            "value": 12.59
+        }, 
+        {
+            "source": 9, 
+            "target": 99, 
+            "value": 12.59
+        }, 
+        {
+            "source": 10, 
+            "target": 40, 
+            "value": 19.55
+        }, 
+        {
+            "source": 10, 
+            "target": 100, 
+            "value": 19.55
+        }, 
+        {
+            "source": 10, 
+            "target": 101, 
+            "value": 19.55
+        }, 
+        {
+            "source": 10, 
+            "target": 102, 
+            "value": 19.55
+        }, 
+        {
+            "source": 10, 
+            "target": 103, 
+            "value": 19.55
+        }, 
+        {
+            "source": 11, 
+            "target": 41, 
+            "value": 17.06
+        }, 
+        {
+            "source": 11, 
+            "target": 104, 
+            "value": 17.06
+        }, 
+        {
+            "source": 11, 
+            "target": 105, 
+            "value": 17.06
+        }, 
+        {
+            "source": 11, 
+            "target": 106, 
+            "value": 17.06
+        }, 
+        {
+            "source": 11, 
+            "target": 107, 
+            "value": 17.06
+        }, 
+        {
+            "source": 12, 
+            "target": 42, 
+            "value": 18.18
+        }, 
+        {
+            "source": 12, 
+            "target": 108, 
+            "value": 18.18
+        }, 
+        {
+            "source": 12, 
+            "target": 109, 
+            "value": 18.18
+        }, 
+        {
+            "source": 12, 
+            "target": 110, 
+            "value": 18.18
+        }, 
+        {
+            "source": 12, 
+            "target": 111, 
+            "value": 18.18
+        }, 
+        {
+            "source": 13, 
+            "target": 43, 
+            "value": 14.47
+        }, 
+        {
+            "source": 13, 
+            "target": 112, 
+            "value": 14.47
+        }, 
+        {
+            "source": 13, 
+            "target": 113, 
+            "value": 14.47
+        }, 
+        {
+            "source": 13, 
+            "target": 114, 
+            "value": 14.47
+        }, 
+        {
+            "source": 13, 
+            "target": 115, 
+            "value": 14.47
+        }, 
+        {
+            "source": 80, 
+            "target": 44, 
+            "value": 0.94
+        }, 
+        {
+            "source": 81, 
+            "target": 45, 
+            "value": 2.79
+        }, 
+        {
+            "source": 82, 
+            "target": 46, 
+            "value": 2.05
+        }, 
+        {
+            "source": 83, 
+            "target": 47, 
+            "value": 1.73
+        }, 
+        {
+            "source": 84, 
+            "target": 48, 
+            "value": 2.66
+        }, 
+        {
+            "source": 85, 
+            "target": 49, 
+            "value": 4.97
+        }, 
+        {
+            "source": 86, 
+            "target": 50, 
+            "value": 4.56
+        }, 
+        {
+            "source": 87, 
+            "target": 51, 
+            "value": 1.65
+        }, 
+        {
+            "source": 88, 
+            "target": 52, 
+            "value": 1.83
+        }, 
+        {
+            "source": 89, 
+            "target": 53, 
+            "value": 3.64
+        }, 
+        {
+            "source": 90, 
+            "target": 54, 
+            "value": 1.86
+        }, 
+        {
+            "source": 91, 
+            "target": 55, 
+            "value": 1.19
+        }, 
+        {
+            "source": 92, 
+            "target": 56, 
+            "value": 1.82
+        }, 
+        {
+            "source": 93, 
+            "target": 57, 
+            "value": 4.53
+        }, 
+        {
+            "source": 94, 
+            "target": 58, 
+            "value": 4.27
+        }, 
+        {
+            "source": 95, 
+            "target": 59, 
+            "value": 2.57
+        }, 
+        {
+            "source": 96, 
+            "target": 60, 
+            "value": 4.17
+        }, 
+        {
+            "source": 97, 
+            "target": 61, 
+            "value": 8.45
+        }, 
+        {
+            "source": 98, 
+            "target": 62, 
+            "value": 7.94
+        }, 
+        {
+            "source": 99, 
+            "target": 63, 
+            "value": 4.68
+        }, 
+        {
+            "source": 100, 
+            "target": 64, 
+            "value": 2.65
+        }, 
+        {
+            "source": 101, 
+            "target": 65, 
+            "value": 3.53
+        }, 
+        {
+            "source": 102, 
+            "target": 66, 
+            "value": 3.29
+        }, 
+        {
+            "source": 103, 
+            "target": 67, 
+            "value": 2.69
+        }, 
+        {
+            "source": 104, 
+            "target": 68, 
+            "value": 1.81
+        }, 
+        {
+            "source": 105, 
+            "target": 69, 
+            "value": 2.03
+        }, 
+        {
+            "source": 106, 
+            "target": 70, 
+            "value": 2.43
+        }, 
+        {
+            "source": 107, 
+            "target": 71, 
+            "value": 1.23
+        }, 
+        {
+            "source": 108, 
+            "target": 72, 
+            "value": 3.79
+        }, 
+        {
+            "source": 109, 
+            "target": 73, 
+            "value": 7.93
+        }, 
+        {
+            "source": 110, 
+            "target": 74, 
+            "value": 6.99
+        }, 
+        {
+            "source": 111, 
+            "target": 75, 
+            "value": 4.11
+        }, 
+        {
+            "source": 112, 
+            "target": 76, 
+            "value": 2.12
+        }, 
+        {
+            "source": 113, 
+            "target": 77, 
+            "value": 2.93
+        }, 
+        {
+            "source": 114, 
+            "target": 78, 
+            "value": 1.6
+        }, 
+        {
+            "source": 115, 
+            "target": 79, 
+            "value": 1.38
+        }
+    ], 
+    "min": 0.0
+}
